@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python_Marks,Data_Analytics_Marks,AI_Marks,DBMS_Marks,Attendance,Total_Marks,Average_Marks,Grade,Status
+S101,Aarav Verma,CSE (AI & DS),92,88,95,90,94,365,91.25,A+,Pass
+S102,Priya Nair,CSE,78,82,75,80,88,315,78.75,B,Pass
+S103,Rohan Mishra,IT,65,60,58,62,76,245,61.25,C,Pass
+S104,Ananya Gupta,CSE (AI & DS),85,89,91,84,92,349,87.25,A,Pass
+S105,Vikram Singh,ECE,45,52,48,50,72,195,48.75,F,Fail
+S106,Neha Tiwari,CSE,95,94,97,92,98,378,94.5,A+,Pass
+S107,Siddharth Yadav,IT,32,40,35,38,68,145,36.25,F,Fail
+S108,Kavya Pandey,CSE (AI & DS),72,76,70,74,85,292,73.0,B,Pass
+S109,Aditya Saxena,ECE,58,64,61,55,79,238,59.5,D,Pass
+S110,Ishita Srivastava,CSE,88,84,86,90,91,348,87.0,A,Pass
+S111,Manish Chauhan,IT,49,45,50,42,64,186,46.5,F,Fail
+S112,Pooja Sharma,CSE (AI & DS),81,79,84,82,89,326,81.5,A,Pass
+S113,Rahul Dubey,ECE,38,31,29,40,70,138,34.5,F,Fail
+S114,Sneha Awasthi,CSE,69,73,68,71,83,281,70.25,B,Pass
+S115,Karan Malhotra,IT,91,87,89,93,95,360,90.0,A+,Pass
+S116,Divya Rastogi,CSE (AI & DS),54,58,52,60,77,224,56.0,D,Pass
+S117,Abhishek Shukla,ECE,76,71,74,78,86,299,74.75,B,Pass
+S118,Meera Joshi,CSE,84,86,80,85,90,335,83.75,A,Pass
+S119,Harshita Agarwal,IT,62,65,60,67,81,254,63.5,C,Pass
+S120,TusharBajpai,CSE (AI & DS),28,35,30,33,60,126,31.5,F,Fail
